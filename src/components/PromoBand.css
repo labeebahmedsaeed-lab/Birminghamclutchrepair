@@ -1,0 +1,13 @@
+.promo-band {
+  position: relative;
+  background: var(--color-bg);
+}
+
+.promo-band .marquee {
+  display: block;
+  width: 100%;
+}
+
+.promo-band .trust {
+  background: var(--color-bg);
+}
