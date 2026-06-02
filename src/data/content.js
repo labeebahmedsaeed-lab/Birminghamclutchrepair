@@ -14,7 +14,7 @@ export const WHATSAPP_LINK = {
   target: '_blank',
   rel: 'noopener noreferrer',
 };
-export const FORM_RECIPIENT_EMAIL = 'Mas9211@yahoo.com';
+export const FORM_RECIPIENT_EMAIL = 'labeebahmedsaeed@gmail.com';
 export const EMAIL = 'info@birminghamclutchrepair.co.uk';
 export const BUSINESS_NAME = 'Birmingham Clutch Repair';
 

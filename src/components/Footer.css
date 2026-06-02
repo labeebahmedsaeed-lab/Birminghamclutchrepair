@@ -18,17 +18,12 @@
   margin-bottom: 1rem;
 }
 
-.footer__logo-icon {
-  width: 40px;
-  height: 40px;
-  display: grid;
-  place-items: center;
-  background: linear-gradient(135deg, var(--color-accent), #ea580c);
-  color: #0a0e17;
-  font-family: var(--font-display);
-  font-weight: 800;
-  font-size: 0.85rem;
-  border-radius: var(--radius-sm);
+.footer__logo-img {
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  border-radius: 10px;
+  flex-shrink: 0;
 }
 
 .footer__brand p {

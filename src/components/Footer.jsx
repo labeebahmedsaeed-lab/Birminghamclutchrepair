@@ -12,7 +12,11 @@ export default function Footer() {
       <div className="container footer__grid">
         <div className="footer__brand">
           <Link to="/" className="footer__logo">
-            <span className="footer__logo-icon">BC</span>
+            <img
+              src="/bcr-logo.png"
+              alt="BCR Birmingham Clutch Repair logo"
+              className="footer__logo-img"
+            />
             <strong>{BUSINESS_NAME}</strong>
           </Link>
           <p>

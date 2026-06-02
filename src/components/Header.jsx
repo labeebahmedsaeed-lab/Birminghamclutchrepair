@@ -37,7 +37,11 @@ export default function Header() {
 
       <div className="container header__main">
         <Link to="/" className="header__logo">
-          <span className="header__logo-icon">BC</span>
+          <img
+            src="/bcr-logo.png"
+            alt="BCR Birmingham Clutch Repair logo"
+            className="header__logo-img"
+          />
           <div>
             <strong>{BUSINESS_NAME}</strong>
             <span>Birmingham, UK</span>
